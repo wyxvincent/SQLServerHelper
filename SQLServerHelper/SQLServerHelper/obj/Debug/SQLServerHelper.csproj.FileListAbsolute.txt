@@ -1,0 +1,5 @@
+c:\users\weiyx1\documents\visual studio 2013\Projects\SQLServerHelper\SQLServerHelper\bin\SQLServerHelper.dll.config
+c:\users\weiyx1\documents\visual studio 2013\Projects\SQLServerHelper\SQLServerHelper\bin\SQLServerHelper.dll
+c:\users\weiyx1\documents\visual studio 2013\Projects\SQLServerHelper\SQLServerHelper\bin\SQLServerHelper.pdb
+c:\users\weiyx1\documents\visual studio 2013\Projects\SQLServerHelper\SQLServerHelper\obj\Debug\SQLServerHelper.dll
+c:\users\weiyx1\documents\visual studio 2013\Projects\SQLServerHelper\SQLServerHelper\obj\Debug\SQLServerHelper.pdb
